@@ -1,5 +1,4 @@
 # saucedemo
-pruebatecnica
 Automatización con Selenium WebDriver (Java, Cucumber y POM)
 Objetivo
 Evaluar la capacidad del candidato para desarrollar un robot de automatización utilizando Selenium WebDriver, Cucumber y la metodología Page Object Model (POM). Se evaluará:
